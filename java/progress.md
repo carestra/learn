@@ -2,4 +2,6 @@
 - https://dev.java/learn/language-basics/arrays/
 
 # Oracle University
-- https://mylearn.oracle.com/ou/course/introduction-to-java-basics/79738
+## Oracle Java Foundations
+This is a beginners level about Java;
+https://mylearn.oracle.com/ou/learning-path/oracle-java-foundations/79726
