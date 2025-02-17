@@ -1,5 +1,5 @@
 # dev.java
-- https://dev.java/learn/language-basics/arrays/
+- https://dev.java/learn/language-basics/using-operators/
 
 # Oracle University
 ## Oracle Java Foundations
