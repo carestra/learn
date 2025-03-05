@@ -1,5 +1,5 @@
 # dev.java
-- https://dev.java/learn/language-basics/using-operators/
+- https://dev.java/learn/inheritance/objects/
 
 # Oracle University
 ## Oracle Java Foundations
