@@ -1,5 +1,5 @@
 # dev.java
-- https://dev.java/learn/inheritance/objects/
+- https://dev.java/learn/generics/type-erasure/
 
 # Oracle University
 ## Oracle Java Foundations
