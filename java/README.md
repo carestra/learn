@@ -2,7 +2,7 @@
 
 ## Install
 Use a software development kit manager such as https://sdkman.io/
-so you can swich between different JDK version and vendors. 
+so you can switch between different JDK version and vendors. 
 
 # Resources for learning Java
 ## Documentation

@@ -1,5 +1,5 @@
 # dev.java
-- https://dev.java/learn/generics/type-erasure/
+- https://dev.java/learn/annotations/
 
 # Oracle University
 ## Oracle Java Foundations
