@@ -14,6 +14,7 @@
 ## Books
 
 ## Podcasts
+- https://www.youtube.com/watch?v=GAgelbsTb9M
 
 ## Certification
 
