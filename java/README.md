@@ -21,7 +21,10 @@ You must have an account but the following course is free.
 - https://dev.java/learn/
 - https://www.tpointtech.com/java-tutorial
 - https://www.geekster.in/articles/java/
-- 
+
+## Practice
+- https://www.codechef.com/
+
 ## Books
 
 ## Podcasts
